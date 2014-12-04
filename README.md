@@ -2,5 +2,5 @@ chord
 =====
 
 Chord(DHT) simulator
-A simulator for analyaing the performance of Chord, a distributed hash table
+A simulator for analyzing the performance of Chord, a distributed hash table
 
